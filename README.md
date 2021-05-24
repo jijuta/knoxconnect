@@ -1,2 +1,2 @@
 # knoxconnect
-knox connect
+knox connect pc browser
